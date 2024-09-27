@@ -15,6 +15,8 @@ The data used for this analysis was sourced from [Kaggle]. It has been cleaned a
 - **Power BI:** For data visualization and dashboard development.
 - **Excel:** For initial data analysis and processing.
 
+![Dashboard Pic](https://github.com/user-attachments/assets/93f19334-2d73-4093-91b5-d13fad78796d)
+
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Open the Power BI file to interact with the dashboard.
